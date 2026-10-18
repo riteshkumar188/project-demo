@@ -1,2 +1,2 @@
 # project-demo
-This is purpose of learning.
+This is purpose of learning class.
